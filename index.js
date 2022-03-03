@@ -1,7 +1,5 @@
 // API to access Mcdonalds old toys.
 
-const res = require('express');
-
 const app = require('express')();
 const PORT = 3000;
 
