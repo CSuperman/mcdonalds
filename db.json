@@ -1,0 +1,17 @@
+
+{
+    "toys": [
+      {
+        "id": 0,
+        "name": "Mario",
+        "description": "One of the most popular video game characters of all time. There are 8 different Mario figurines.",
+        "set price": 250.00
+      },
+      {
+        "id": 1,
+        "name": "Teenie Beanie Boos",
+        "description": "Similar to Beanie Baby cousins. There are 4 of these in a set.",
+        "each price": 450.00
+      }
+    ]
+}
