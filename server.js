@@ -15,3 +15,7 @@ server.listen(
     PORT,
     () => console.log('it is located at http://localhost:${PORT}')
 );
+
+app.all('*', (req, res) => {
+  res.status(404).sendFile('/error.html');
+});
